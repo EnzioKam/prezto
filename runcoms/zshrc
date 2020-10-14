@@ -35,4 +35,5 @@ export EDITOR='nvim'
 alias rm='nocorrect rm'
 alias lsa='ls -a'
 alias lsla='ls -la'
+alias dotdrop='/home/enzio/dotfiles/dotdrop.sh --cfg=/home/enzio/dotfiles/config.yaml'
 
